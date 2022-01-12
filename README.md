@@ -1,0 +1,1 @@
+# secured-elk-cluster-docker
